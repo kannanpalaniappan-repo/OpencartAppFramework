@@ -1,5 +1,0 @@
-18:36:46.264 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
-18:36:46.945 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
-18:36:47.468 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
-18:36:47.471 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
-18:36:49.014 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message
